@@ -1,4 +1,4 @@
-For us with Arduino and Squareline Studio
+For use with Arduino and Squareline Studio
 
 Arduino IDE with M5Stack boards (M5Dial)
 Libraries 
