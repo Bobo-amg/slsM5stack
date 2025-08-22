@@ -8,6 +8,7 @@ Libraries
 
 Squareline Studio latest version
 Board = Arduino with TFT_eSPI v1.1.3
+
 Libraries
 - LVGL v8.3.11
 
