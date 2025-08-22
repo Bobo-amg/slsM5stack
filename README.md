@@ -1,6 +1,7 @@
 For use with Arduino and Squareline Studio
 
 Arduino IDE with M5Stack boards (M5Dial)
+
 Libraries 
 - LVGL v8.3.11
 - M5Dial, M5Family, M5GFX, M5CoreS3, M5Unified (all latest versions)
